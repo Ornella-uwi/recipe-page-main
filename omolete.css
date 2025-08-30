@@ -1,0 +1,29 @@
+ img{
+    width: 15cm;
+    margin:2 0cm; 
+}
+h1{
+    font-size: 1.2cm;
+}
+#one{
+    font-size: larger;
+}
+h3{
+    color: rgb(167, 6, 6);
+}
+#cap{
+    color: rgb(167, 6, 6);
+    font-weight: bolder;
+}
+li::marker{
+    color:darkred;
+    font-weight: bolder;
+}
+table{
+    width:2cm;
+    td{
+        padding-right:4cm ;
+        border-bottom: 1px solid black;
+
+    }
+}
